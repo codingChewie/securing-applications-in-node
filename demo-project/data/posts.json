@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "authorUsername": "foo",
+    "body": "I am stupid"
+  },
+  {
+    "id": 2,
+    "authorUsername": "foo",
+    "body": "I am stupid"
+  },
+  {
+    "id": 3,
+    "authorUsername": "foo",
+    "body": "I am stupid"
+  }
+]
